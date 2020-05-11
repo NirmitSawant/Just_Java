@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">नाव</string>
+    <string name="toppings">टॉपिंग्ज</string>
+    <string name="whipped_cream">" विप्ड क्रीम"</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="order_sum">ऑर्डर सारांश</string>
+    <string name="order">ऑर्डर</string>
+    <string name="quantity">प्रमाण</string>
+    <string name="yes">होय</string>
+    <string name="no">नाही</string>
+    <string name="add_whipped_cream">विप्ड क्रीम घालावे?</string>
+    <string name="add_chocolate">चॉकलेट घालावे?</string>
+    <string name="total">एकूणः</string>
+    <string name="thank_you">धन्यवाद!</string>
+    <string name="just_java">"फक्त जावा ऑर्डर : "</string>
+    <string name="no_more">आपण 100 कॉफीपेक्षा जास्त ऑर्डर करू शकत नाही</string>
+    <string name="no_less">" आपल्याकडे 1 पेक्षा कमी कॉफी असू शकत नाही."</string>
+</resources>
